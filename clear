@@ -1,0 +1,17 @@
+[33mcommit 11eabb64ca9c5a0a1e20637b06c0967309c1afb9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ajaaaah <ajah14@ymail.com>
+Date:   Fri Mar 14 13:48:40 2025 -0400
+
+    Button click, ignore log files.
+
+[33mcommit 1a1e1179f32e16bdf38b0889765bffb62146a07d[m
+Author: ajaaaah <ajah14@ymail.com>
+Date:   Fri Mar 14 13:29:30 2025 -0400
+
+    Added JavaScript file.
+
+[33mcommit 9bbb6336510b90ae0c470020ae06905b1207f20f[m
+Author: ajaaaah <ajah14@ymail.com>
+Date:   Fri Mar 14 13:00:51 2025 -0400
+
+    Initial commit. Added index.html file.
